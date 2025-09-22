@@ -396,3 +396,67 @@
 2025-09-22 14:46:21,506 [INFO] McuFinderGlobals:52 - Set McuFinderConnectedMode to true
 2025-09-22 14:46:21,506 [INFO] ApiDb:276 - Save user favorites file C:\Users\DELL/.stm32cubeide/favorites.mcus.txt: 0 item(s)
 2025-09-22 14:46:21,506 [INFO] ApiDb:280 - User favorites MCUs=[]
+2025-09-22 14:48:02,479 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 1036058928 Bytes (1054867456)
+2025-09-22 14:48:04,267 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 1025869096 Bytes (1054867456)
+2025-09-22 14:48:06,789 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 846745016 Bytes (1073741824)
+2025-09-22 14:48:07,081 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2025-09-22 14:48:07,081 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2025-09-22 14:48:07,081 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2025-09-22 14:48:07,081 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2025-09-22 14:48:07,083 [INFO] CodeGenerator:663 - code generatio: config db path: D:\251\vxl\cube\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2025-09-22 14:48:07,343 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\license.tmp_save
+2025-09-22 14:48:07,455 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\license.tmp
+2025-09-22 14:48:07,502 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\gpio.tmp_save
+2025-09-22 14:48:07,592 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\gpio.tmp
+2025-09-22 14:48:07,625 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_it.c_save
+2025-09-22 14:48:07,760 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_it.c
+2025-09-22 14:48:07,770 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_it.h_save
+2025-09-22 14:48:07,846 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_it.h
+2025-09-22 14:48:07,875 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_hal_msp.c_save
+2025-09-22 14:48:08,005 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_hal_msp.c
+2025-09-22 14:48:08,013 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\system.tmp_save
+2025-09-22 14:48:08,099 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\system.tmp
+2025-09-22 14:48:08,125 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-09-22 14:48:08,292 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_hal_conf.h
+2025-09-22 14:48:08,345 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\main.h_save
+2025-09-22 14:48:08,464 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\main.h
+2025-09-22 14:48:08,484 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\main.c_save
+2025-09-22 14:48:08,639 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\main.c
+2025-09-22 14:48:10,496 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 794mS.
+2025-09-22 14:48:10,504 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2025-09-22 14:48:10,916 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2025-09-22 14:48:12,903 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2399mS.
+2025-09-22 14:48:12,906 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 2mS.
+2025-09-22 14:48:12,913 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-22 14:51:32,765 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 960087608 Bytes (1073741824)
+2025-09-22 14:51:34,426 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 923551888 Bytes (1073741824)
+2025-09-22 14:51:37,614 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 925478936 Bytes (1073741824)
+2025-09-22 14:51:38,058 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2025-09-22 14:51:38,058 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2025-09-22 14:51:38,058 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2025-09-22 14:51:38,058 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2025-09-22 14:51:38,058 [INFO] CodeGenerator:663 - code generatio: config db path: D:\251\vxl\cube\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2025-09-22 14:51:38,298 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\license.tmp_save
+2025-09-22 14:51:38,434 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\license.tmp
+2025-09-22 14:51:38,465 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\gpio.tmp_save
+2025-09-22 14:51:38,590 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\gpio.tmp
+2025-09-22 14:51:38,637 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_it.c_save
+2025-09-22 14:51:38,746 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_it.c
+2025-09-22 14:51:38,762 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_it.h_save
+2025-09-22 14:51:38,877 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_it.h
+2025-09-22 14:51:38,908 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_hal_msp.c_save
+2025-09-22 14:51:39,027 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_hal_msp.c
+2025-09-22 14:51:39,027 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\system.tmp_save
+2025-09-22 14:51:39,136 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\system.tmp
+2025-09-22 14:51:39,167 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-09-22 14:51:39,334 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_hal_conf.h
+2025-09-22 14:51:39,381 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\main.h_save
+2025-09-22 14:51:39,474 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\main.h
+2025-09-22 14:51:39,490 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\main.c_save
+2025-09-22 14:51:39,620 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\main.c
+2025-09-22 14:51:41,606 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 836mS.
+2025-09-22 14:51:41,614 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2025-09-22 14:51:42,041 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2025-09-22 14:51:44,301 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2687mS.
+2025-09-22 14:51:44,304 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 2mS.
+2025-09-22 14:51:44,312 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
