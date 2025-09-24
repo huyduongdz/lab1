@@ -212,60 +212,17 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-  int sec=-1;
-  int hour=0;
-  int min=0;
-  int secdis=0;
-  int mindis=0;
-  int olds;
-  int oldm;
-  int oldh;
-  clearAllClock();
-  setNumberOnClock(secdis);
-  setNumberOnClock(mindis);
-  setNumberOnClock(hour);
+  int count=0;
   while (1)
   {
-	  olds=secdis;
-	  oldm=mindis;
-	  oldh=hour;
-	  sec++;
-	  if(sec>59)
-	  {
-		  sec=0;
-		  min++;
-	  }
-	  if(min>59)
-	  {
-		  min=0;
-		  hour++;
-	  }
-	  if(hour>11)
-	  {
-		  hour=0;
-	  }
     /* USER CODE END WHILE */
-	  secdis=sec/5;
-	  mindis=min/5;
-
-	  //DELETE
-	  if(olds!=secdis && olds!= mindis && olds!= hour)
+	  if(count>11)
 	  {
-		  clearNumberOnClock(olds);
+		  count=0;
 	  }
-
-	  if(oldm!=secdis && oldm!= mindis && oldm!= hour)
-	  {
-		  clearNumberOnClock(oldm);
-	  }
-
-	  if(oldh!=secdis && oldh!= mindis && oldh!= hour)
-	  {
-		  clearNumberOnClock(oldh);
-	  }
-	  setNumberOnClock(secdis);
-	  setNumberOnClock(mindis);
-	  setNumberOnClock(hour);
+	  clearAllClock();
+	  setNumberOnClock(count);
+	  count++;
 	  HAL_Delay(1000);
     /* USER CODE BEGIN 3 */
   }
