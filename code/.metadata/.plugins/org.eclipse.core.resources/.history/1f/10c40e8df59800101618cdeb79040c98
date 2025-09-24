@@ -61,127 +61,6 @@ static void MX_GPIO_Init(void);
   * @brief  The application entry point.
   * @retval int
   */
-
-void clearAllClock()
-{
-	HAL_GPIO_WritePin(I_GPIO_Port,   I_Pin,   GPIO_PIN_SET);
-    HAL_GPIO_WritePin(II_GPIO_Port,  II_Pin,  GPIO_PIN_SET);
-    HAL_GPIO_WritePin(III_GPIO_Port, III_Pin, GPIO_PIN_SET);
-    HAL_GPIO_WritePin(IV_GPIO_Port,  IV_Pin,  GPIO_PIN_SET);
-    HAL_GPIO_WritePin(V_GPIO_Port,   V_Pin,   GPIO_PIN_SET);
-    HAL_GPIO_WritePin(VI_GPIO_Port,  VI_Pin,  GPIO_PIN_SET);
-    HAL_GPIO_WritePin(VII_GPIO_Port, VII_Pin, GPIO_PIN_SET);
-    HAL_GPIO_WritePin(VIII_GPIO_Port,VIII_Pin,GPIO_PIN_SET);
-    HAL_GPIO_WritePin(IX_GPIO_Port,  IX_Pin,  GPIO_PIN_SET);
-    HAL_GPIO_WritePin(X_GPIO_Port,   X_Pin,   GPIO_PIN_SET);
-    HAL_GPIO_WritePin(XI_GPIO_Port,  XI_Pin,  GPIO_PIN_SET);
-    HAL_GPIO_WritePin(XII_GPIO_Port, XII_Pin, GPIO_PIN_SET);
-}
-
-void setNumberOnClock(int num)
-{
-    if(num == 1) {
-        HAL_GPIO_WritePin(I_GPIO_Port, I_Pin, GPIO_PIN_RESET);
-        return;
-    }
-    if(num == 2) {
-        HAL_GPIO_WritePin(II_GPIO_Port, II_Pin, GPIO_PIN_RESET);
-        return;
-    }
-    if(num == 3) {
-        HAL_GPIO_WritePin(III_GPIO_Port, III_Pin, GPIO_PIN_RESET);
-        return;
-    }
-    if(num == 4) {
-        HAL_GPIO_WritePin(IV_GPIO_Port, IV_Pin, GPIO_PIN_RESET);
-        return;
-    }
-    if(num == 5) {
-        HAL_GPIO_WritePin(V_GPIO_Port, V_Pin, GPIO_PIN_RESET);
-        return;
-    }
-    if(num == 6) {
-        HAL_GPIO_WritePin(VI_GPIO_Port, VI_Pin, GPIO_PIN_RESET);
-        return;
-    }
-    if(num == 7) {
-        HAL_GPIO_WritePin(VII_GPIO_Port, VII_Pin, GPIO_PIN_RESET);
-        return;
-    }
-    if(num == 8) {
-        HAL_GPIO_WritePin(VIII_GPIO_Port, VIII_Pin, GPIO_PIN_RESET);
-        return;
-    }
-    if(num == 9) {
-        HAL_GPIO_WritePin(IX_GPIO_Port, IX_Pin, GPIO_PIN_RESET);
-        return;
-    }
-    if(num == 10) {
-        HAL_GPIO_WritePin(X_GPIO_Port, X_Pin, GPIO_PIN_RESET);
-        return;
-    }
-    if(num == 11) {
-        HAL_GPIO_WritePin(XI_GPIO_Port, XI_Pin, GPIO_PIN_RESET);
-        return;
-    }
-    if(num == 0) {
-        HAL_GPIO_WritePin(XII_GPIO_Port, XII_Pin, GPIO_PIN_RESET);
-        return;
-    }
-}
-
-void clearNumberOnClock(int num)
-{
-    if(num == 1) {
-        HAL_GPIO_WritePin(I_GPIO_Port, I_Pin, GPIO_PIN_SET);
-        return;
-    }
-    if(num == 2) {
-        HAL_GPIO_WritePin(II_GPIO_Port, II_Pin, GPIO_PIN_SET);
-        return;
-    }
-    if(num == 3) {
-        HAL_GPIO_WritePin(III_GPIO_Port, III_Pin, GPIO_PIN_SET);
-        return;
-    }
-    if(num == 4) {
-        HAL_GPIO_WritePin(IV_GPIO_Port, IV_Pin, GPIO_PIN_SET);
-        return;
-    }
-    if(num == 5) {
-        HAL_GPIO_WritePin(V_GPIO_Port, V_Pin, GPIO_PIN_SET);
-        return;
-    }
-    if(num == 6) {
-        HAL_GPIO_WritePin(VI_GPIO_Port, VI_Pin, GPIO_PIN_SET);
-        return;
-    }
-    if(num == 7) {
-        HAL_GPIO_WritePin(VII_GPIO_Port, VII_Pin, GPIO_PIN_SET);
-        return;
-    }
-    if(num == 8) {
-        HAL_GPIO_WritePin(VIII_GPIO_Port, VIII_Pin, GPIO_PIN_SET);
-        return;
-    }
-    if(num == 9) {
-        HAL_GPIO_WritePin(IX_GPIO_Port, IX_Pin, GPIO_PIN_SET);
-        return;
-    }
-    if(num == 10) {
-        HAL_GPIO_WritePin(X_GPIO_Port, X_Pin, GPIO_PIN_SET);
-        return;
-    }
-    if(num == 11) {
-        HAL_GPIO_WritePin(XI_GPIO_Port, XI_Pin, GPIO_PIN_SET);
-        return;
-    }
-    if(num == 0) {
-        HAL_GPIO_WritePin(XII_GPIO_Port, XII_Pin, GPIO_PIN_SET);
-        return;
-    }
-}
-
 int main(void)
 {
   /* USER CODE BEGIN 1 */
@@ -212,18 +91,10 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-  int count=0;
   while (1)
   {
     /* USER CODE END WHILE */
-	  if(count>11)
-	  {
-		  count=0;
-	  }
-	  clearAllClock();
-	  setNumberOnClock(count);
-	  count++;
-	  HAL_Delay(1000);
+
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
