@@ -1305,3 +1305,819 @@
 2025-09-24 09:32:14,381 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2418mS.
 2025-09-24 09:32:14,385 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 3mS.
 2025-09-24 09:32:14,393 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-24 09:36:42,288 [INFO] MainUpdater:2671 - connection check result : 10
+2025-09-24 09:36:42,288 [INFO] MainUpdater:2671 - connection check result : 10
+2025-09-24 09:36:42,319 [INFO] MicroXplorer:448 - Change Database Path : 
+2025-09-24 09:36:42,319 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2025-09-24 09:36:42,319 [WARN] ThirdParty:813 - waiting for thirdparty lock release [close project]
+2025-09-24 09:36:42,319 [INFO] ThirdParty:815 - entering critical section [close project]
+2025-09-24 09:36:42,319 [INFO] ThirdParty:825 - exiting critical section [close project]
+2025-09-24 09:36:42,319 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2025-09-24 09:36:42,319 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 907463720 Bytes (1073741824)
+2025-09-24 09:36:42,319 [INFO] MicroXplorer:448 - Change Database Path : 
+2025-09-24 09:36:42,319 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2025-09-24 09:36:42,319 [INFO] OpenFileManager:313 - Change cursor
+2025-09-24 09:36:42,337 [INFO] RulesReader:57 - Compatibility file has been processed (242 Rules)
+2025-09-24 09:36:42,769 [INFO] Context:592 - Trying to add GPIOservice into a context  which must be forbidden
+2025-09-24 09:36:42,898 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2025-09-24 09:36:42,898 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2025-09-24 09:36:42,898 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2025-09-24 09:36:42,898 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:181 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,898 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 09:36:42,992 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 924542112 Bytes (1073741824)
+2025-09-24 09:36:42,992 [WARN] ThirdParty:779 - waiting for thirdparty lock release [change project]
+2025-09-24 09:36:42,992 [INFO] ThirdParty:781 - entering critical section [change project]
+2025-09-24 09:36:42,992 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2025-09-24 09:36:42,992 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2025-09-24 09:36:42,992 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2025-09-24 09:36:42,992 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2025-09-24 09:36:42,992 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2025-09-24 09:36:42,992 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2025-09-24 09:36:42,992 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2025-09-24 09:36:42,992 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2025-09-24 09:36:42,992 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2025-09-24 09:36:42,992 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2025-09-24 09:36:42,992 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2025-09-24 09:36:42,992 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2025-09-24 09:36:42,992 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2025-09-24 09:36:42,992 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2025-09-24 09:36:42,992 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2025-09-24 09:36:42,992 [INFO] ThirdParty:787 - exiting critical section [change project]
+2025-09-24 09:36:43,116 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2025-09-24 09:36:43,116 [INFO] PinOutPanel:1463 - setPackage(STM32F103C6Ux,UFQFPN48)
+2025-09-24 09:36:43,350 [INFO] UtilMem:74 - Before build in PCC Used Memory: 900286600 Bytes (1073741824)
+2025-09-24 09:36:43,538 [INFO] UtilMem:74 - After build in PCC Used Memory: 915724040 Bytes (1073741824)
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,554 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 09:36:43,570 [INFO] OpenFileManager:333 - Restore cursor
+2025-09-24 09:39:05,897 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 950722320 Bytes (1073741824)
+2025-09-24 09:39:06,898 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 892062736 Bytes (1073741824)
+2025-09-24 09:39:07,960 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 898781616 Bytes (1073741824)
+2025-09-24 09:39:08,242 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2025-09-24 09:39:08,242 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2025-09-24 09:39:08,242 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2025-09-24 09:39:08,242 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2025-09-24 09:39:08,242 [INFO] CodeGenerator:663 - code generatio: config db path: D:\251\vxl\cube\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2025-09-24 09:39:08,538 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\license.tmp_save
+2025-09-24 09:39:08,612 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\license.tmp
+2025-09-24 09:39:08,695 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\gpio.tmp_save
+2025-09-24 09:39:08,822 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\gpio.tmp
+2025-09-24 09:39:08,898 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_it.c_save
+2025-09-24 09:39:09,007 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_it.c
+2025-09-24 09:39:09,023 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_it.h_save
+2025-09-24 09:39:09,135 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_it.h
+2025-09-24 09:39:09,163 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_hal_msp.c_save
+2025-09-24 09:39:09,304 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_hal_msp.c
+2025-09-24 09:39:09,320 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\system.tmp_save
+2025-09-24 09:39:09,376 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\system.tmp
+2025-09-24 09:39:09,398 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-09-24 09:39:09,492 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_hal_conf.h
+2025-09-24 09:39:09,539 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\main.h_save
+2025-09-24 09:39:09,632 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\main.h
+2025-09-24 09:39:09,647 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\main.c_save
+2025-09-24 09:39:09,773 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\main.c
+2025-09-24 09:39:11,392 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 869mS.
+2025-09-24 09:39:11,392 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2025-09-24 09:39:12,143 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2025-09-24 09:39:12,148 [INFO] ApiDbMcu:468 - Load IP Config File for FATFS
+2025-09-24 09:39:12,195 [INFO] ApiDbMcu:468 - Load IP Config File for FREERTOS
+2025-09-24 09:39:12,210 [INFO] ApiDbMcu:468 - Load IP Config File for USB_DEVICE
+2025-09-24 09:39:14,102 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2710mS.
+2025-09-24 09:39:14,117 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 15mS.
+2025-09-24 09:39:14,117 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-24 10:03:34,680 [INFO] MainUpdater:2671 - connection check result : 10
+2025-09-24 10:03:34,680 [INFO] MainUpdater:2671 - connection check result : 10
+2025-09-24 10:03:34,720 [INFO] MicroXplorer:448 - Change Database Path : 
+2025-09-24 10:03:34,720 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2025-09-24 10:03:34,720 [WARN] ThirdParty:813 - waiting for thirdparty lock release [close project]
+2025-09-24 10:03:34,720 [INFO] ThirdParty:815 - entering critical section [close project]
+2025-09-24 10:03:34,720 [INFO] ThirdParty:825 - exiting critical section [close project]
+2025-09-24 10:03:34,721 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2025-09-24 10:03:34,721 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 926187792 Bytes (1073741824)
+2025-09-24 10:03:34,722 [INFO] MicroXplorer:448 - Change Database Path : 
+2025-09-24 10:03:34,722 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2025-09-24 10:03:34,722 [INFO] OpenFileManager:313 - Change cursor
+2025-09-24 10:03:34,733 [INFO] RulesReader:57 - Compatibility file has been processed (242 Rules)
+2025-09-24 10:03:35,155 [INFO] Context:592 - Trying to add GPIOservice into a context  which must be forbidden
+2025-09-24 10:03:35,273 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2025-09-24 10:03:35,273 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2025-09-24 10:03:35,273 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2025-09-24 10:03:35,273 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:181 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,273 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:03:35,350 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 917509792 Bytes (1073741824)
+2025-09-24 10:03:35,350 [WARN] ThirdParty:779 - waiting for thirdparty lock release [change project]
+2025-09-24 10:03:35,350 [INFO] ThirdParty:781 - entering critical section [change project]
+2025-09-24 10:03:35,350 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2025-09-24 10:03:35,350 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2025-09-24 10:03:35,350 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2025-09-24 10:03:35,350 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2025-09-24 10:03:35,350 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2025-09-24 10:03:35,350 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2025-09-24 10:03:35,350 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2025-09-24 10:03:35,350 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2025-09-24 10:03:35,350 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2025-09-24 10:03:35,350 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2025-09-24 10:03:35,350 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2025-09-24 10:03:35,350 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2025-09-24 10:03:35,365 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2025-09-24 10:03:35,365 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2025-09-24 10:03:35,365 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2025-09-24 10:03:35,365 [INFO] ThirdParty:787 - exiting critical section [change project]
+2025-09-24 10:03:35,475 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2025-09-24 10:03:35,475 [INFO] PinOutPanel:1463 - setPackage(STM32F103C6Ux,UFQFPN48)
+2025-09-24 10:03:35,693 [INFO] UtilMem:74 - Before build in PCC Used Memory: 941692216 Bytes (1073741824)
+2025-09-24 10:03:35,922 [INFO] UtilMem:74 - After build in PCC Used Memory: 906689688 Bytes (1073741824)
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,930 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:03:35,945 [INFO] OpenFileManager:333 - Restore cursor
+2025-09-24 10:04:14,258 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 956300048 Bytes (1073741824)
+2025-09-24 10:04:15,375 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 904623064 Bytes (1073741824)
+2025-09-24 10:04:15,914 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 913181248 Bytes (1073741824)
+2025-09-24 10:04:16,270 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2025-09-24 10:04:16,270 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2025-09-24 10:04:16,270 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2025-09-24 10:04:16,271 [INFO] CodeGenerator:663 - code generatio: config db path: D:\251\vxl\cube\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2025-09-24 10:04:16,564 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\license.tmp_save
+2025-09-24 10:04:16,630 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\license.tmp
+2025-09-24 10:04:16,676 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_it.c_save
+2025-09-24 10:04:16,832 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_it.c
+2025-09-24 10:04:16,836 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_it.h_save
+2025-09-24 10:04:16,935 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_it.h
+2025-09-24 10:04:16,960 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_hal_msp.c_save
+2025-09-24 10:04:17,101 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_hal_msp.c
+2025-09-24 10:04:17,116 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\system.tmp_save
+2025-09-24 10:04:17,210 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\system.tmp
+2025-09-24 10:04:17,226 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-09-24 10:04:17,320 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_hal_conf.h
+2025-09-24 10:04:17,382 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\main.h_save
+2025-09-24 10:04:17,480 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\main.h
+2025-09-24 10:04:17,497 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\main.c_save
+2025-09-24 10:04:17,663 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\main.c
+2025-09-24 10:04:19,210 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 843mS.
+2025-09-24 10:04:19,226 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2025-09-24 10:04:19,986 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2025-09-24 10:04:19,995 [INFO] ApiDbMcu:468 - Load IP Config File for FATFS
+2025-09-24 10:04:20,030 [INFO] ApiDbMcu:468 - Load IP Config File for FREERTOS
+2025-09-24 10:04:20,054 [INFO] ApiDbMcu:468 - Load IP Config File for USB_DEVICE
+2025-09-24 10:04:22,086 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2860mS.
+2025-09-24 10:04:22,086 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-24 10:04:22,102 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-24 10:11:11,789 [INFO] MainUpdater:2671 - connection check result : 10
+2025-09-24 10:11:11,789 [INFO] MainUpdater:2671 - connection check result : 10
+2025-09-24 10:11:11,820 [INFO] MicroXplorer:448 - Change Database Path : 
+2025-09-24 10:11:11,820 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2025-09-24 10:11:11,820 [WARN] ThirdParty:813 - waiting for thirdparty lock release [close project]
+2025-09-24 10:11:11,820 [INFO] ThirdParty:815 - entering critical section [close project]
+2025-09-24 10:11:11,820 [INFO] ThirdParty:825 - exiting critical section [close project]
+2025-09-24 10:11:11,820 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2025-09-24 10:11:11,820 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 936133384 Bytes (1073741824)
+2025-09-24 10:11:11,820 [INFO] MicroXplorer:448 - Change Database Path : 
+2025-09-24 10:11:11,820 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2025-09-24 10:11:11,820 [INFO] OpenFileManager:313 - Change cursor
+2025-09-24 10:11:11,836 [INFO] RulesReader:57 - Compatibility file has been processed (242 Rules)
+2025-09-24 10:11:12,273 [INFO] Context:592 - Trying to add GPIOservice into a context  which must be forbidden
+2025-09-24 10:11:12,444 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2025-09-24 10:11:12,444 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2025-09-24 10:11:12,444 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2025-09-24 10:11:12,444 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2025-09-24 10:11:12,445 [WARN] ModelIntegratedComponent:181 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2025-09-24 10:11:12,445 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,445 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,445 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,445 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,445 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,445 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,445 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,445 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,445 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,446 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,446 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,446 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,446 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,446 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,446 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,446 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,446 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,446 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,446 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,446 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,447 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,447 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,447 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,447 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,447 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,447 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,447 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,447 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,447 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,447 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,447 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:11:12,515 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 908532272 Bytes (1073741824)
+2025-09-24 10:11:12,516 [WARN] ThirdParty:779 - waiting for thirdparty lock release [change project]
+2025-09-24 10:11:12,516 [INFO] ThirdParty:781 - entering critical section [change project]
+2025-09-24 10:11:12,516 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2025-09-24 10:11:12,516 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2025-09-24 10:11:12,516 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2025-09-24 10:11:12,516 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2025-09-24 10:11:12,516 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2025-09-24 10:11:12,516 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2025-09-24 10:11:12,516 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2025-09-24 10:11:12,516 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2025-09-24 10:11:12,516 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2025-09-24 10:11:12,516 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2025-09-24 10:11:12,516 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2025-09-24 10:11:12,517 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2025-09-24 10:11:12,517 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2025-09-24 10:11:12,517 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2025-09-24 10:11:12,517 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2025-09-24 10:11:12,517 [INFO] ThirdParty:787 - exiting critical section [change project]
+2025-09-24 10:11:12,601 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2025-09-24 10:11:12,601 [INFO] PinOutPanel:1463 - setPackage(STM32F103C6Ux,UFQFPN48)
+2025-09-24 10:11:12,820 [INFO] UtilMem:74 - Before build in PCC Used Memory: 926050016 Bytes (1073741824)
+2025-09-24 10:11:13,023 [INFO] UtilMem:74 - After build in PCC Used Memory: 941743408 Bytes (1073741824)
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,038 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:11:13,056 [INFO] OpenFileManager:333 - Restore cursor
+2025-09-24 10:12:39,445 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 897125352 Bytes (1073741824)
+2025-09-24 10:12:41,271 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 913322952 Bytes (1073741824)
+2025-09-24 10:12:41,874 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 915163328 Bytes (1073741824)
+2025-09-24 10:12:42,211 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2025-09-24 10:12:42,211 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2025-09-24 10:12:42,211 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2025-09-24 10:12:42,211 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2025-09-24 10:12:42,211 [INFO] CodeGenerator:663 - code generatio: config db path: D:\251\vxl\cube\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2025-09-24 10:12:42,530 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\license.tmp_save
+2025-09-24 10:12:42,648 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\license.tmp
+2025-09-24 10:12:42,772 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\gpio.tmp_save
+2025-09-24 10:12:42,850 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\gpio.tmp
+2025-09-24 10:12:42,913 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_it.c_save
+2025-09-24 10:12:43,054 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_it.c
+2025-09-24 10:12:43,077 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_it.h_save
+2025-09-24 10:12:43,163 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_it.h
+2025-09-24 10:12:43,195 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_hal_msp.c_save
+2025-09-24 10:12:43,287 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_hal_msp.c
+2025-09-24 10:12:43,287 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\system.tmp_save
+2025-09-24 10:12:43,334 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\system.tmp
+2025-09-24 10:12:43,365 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-09-24 10:12:43,476 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_hal_conf.h
+2025-09-24 10:12:43,538 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\main.h_save
+2025-09-24 10:12:43,634 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\main.h
+2025-09-24 10:12:43,653 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\main.c_save
+2025-09-24 10:12:43,789 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\main.c
+2025-09-24 10:12:45,397 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 890mS.
+2025-09-24 10:12:45,413 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2025-09-24 10:12:46,118 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2025-09-24 10:12:46,134 [INFO] ApiDbMcu:468 - Load IP Config File for FATFS
+2025-09-24 10:12:46,163 [INFO] ApiDbMcu:468 - Load IP Config File for FREERTOS
+2025-09-24 10:12:46,179 [INFO] ApiDbMcu:468 - Load IP Config File for USB_DEVICE
+2025-09-24 10:12:48,054 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2641mS.
+2025-09-24 10:12:48,054 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-24 10:12:48,054 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-24 10:14:49,758 [INFO] MainUpdater:2671 - connection check result : 10
+2025-09-24 10:14:49,758 [INFO] MainUpdater:2671 - connection check result : 10
+2025-09-24 10:14:49,797 [INFO] MicroXplorer:448 - Change Database Path : 
+2025-09-24 10:14:49,797 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2025-09-24 10:14:49,797 [WARN] ThirdParty:813 - waiting for thirdparty lock release [close project]
+2025-09-24 10:14:49,797 [INFO] ThirdParty:815 - entering critical section [close project]
+2025-09-24 10:14:49,797 [INFO] ThirdParty:825 - exiting critical section [close project]
+2025-09-24 10:14:49,797 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2025-09-24 10:14:49,798 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 917233368 Bytes (1073741824)
+2025-09-24 10:14:49,798 [INFO] MicroXplorer:448 - Change Database Path : 
+2025-09-24 10:14:49,798 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2025-09-24 10:14:49,798 [INFO] OpenFileManager:313 - Change cursor
+2025-09-24 10:14:49,810 [INFO] RulesReader:57 - Compatibility file has been processed (242 Rules)
+2025-09-24 10:14:50,226 [INFO] Context:592 - Trying to add GPIOservice into a context  which must be forbidden
+2025-09-24 10:14:50,356 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2025-09-24 10:14:50,356 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2025-09-24 10:14:50,356 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2025-09-24 10:14:50,356 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2025-09-24 10:14:50,356 [WARN] ModelIntegratedComponent:181 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2025-09-24 10:14:50,356 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,357 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,357 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,357 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,357 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,357 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,357 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,357 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,357 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,357 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,357 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,357 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,358 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,358 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,358 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,358 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,358 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,358 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,358 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,358 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,358 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,358 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,358 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,359 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,359 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,359 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,359 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,359 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,359 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,359 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,359 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:14:50,451 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 902541936 Bytes (1073741824)
+2025-09-24 10:14:50,452 [WARN] ThirdParty:779 - waiting for thirdparty lock release [change project]
+2025-09-24 10:14:50,452 [INFO] ThirdParty:781 - entering critical section [change project]
+2025-09-24 10:14:50,452 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2025-09-24 10:14:50,452 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2025-09-24 10:14:50,452 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2025-09-24 10:14:50,452 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2025-09-24 10:14:50,452 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2025-09-24 10:14:50,452 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2025-09-24 10:14:50,452 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2025-09-24 10:14:50,452 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2025-09-24 10:14:50,452 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2025-09-24 10:14:50,453 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2025-09-24 10:14:50,453 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2025-09-24 10:14:50,453 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2025-09-24 10:14:50,453 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2025-09-24 10:14:50,453 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2025-09-24 10:14:50,453 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2025-09-24 10:14:50,453 [INFO] ThirdParty:787 - exiting critical section [change project]
+2025-09-24 10:14:50,558 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2025-09-24 10:14:50,560 [INFO] PinOutPanel:1463 - setPackage(STM32F103C6Ux,UFQFPN48)
+2025-09-24 10:14:50,780 [INFO] UtilMem:74 - Before build in PCC Used Memory: 933440360 Bytes (1073741824)
+2025-09-24 10:14:50,985 [INFO] UtilMem:74 - After build in PCC Used Memory: 896702264 Bytes (1073741824)
+2025-09-24 10:14:50,997 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:50,997 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:50,997 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:50,997 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:50,997 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:50,997 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:50,998 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:50,998 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:50,998 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:50,998 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:50,998 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:50,998 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:50,999 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:50,999 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:50,999 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:50,999 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:50,999 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:51,000 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:51,000 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:51,000 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:51,000 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:51,001 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:51,001 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:14:51,011 [INFO] OpenFileManager:333 - Restore cursor
+2025-09-24 10:15:14,507 [INFO] MainUpdater:2671 - connection check result : 10
+2025-09-24 10:15:14,507 [INFO] MainUpdater:2671 - connection check result : 10
+2025-09-24 10:15:14,554 [INFO] MicroXplorer:448 - Change Database Path : 
+2025-09-24 10:15:14,554 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2025-09-24 10:15:14,554 [WARN] ThirdParty:813 - waiting for thirdparty lock release [close project]
+2025-09-24 10:15:14,554 [INFO] ThirdParty:815 - entering critical section [close project]
+2025-09-24 10:15:14,554 [INFO] ThirdParty:825 - exiting critical section [close project]
+2025-09-24 10:15:14,554 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2025-09-24 10:15:14,554 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 935227000 Bytes (1073741824)
+2025-09-24 10:15:14,554 [INFO] MicroXplorer:448 - Change Database Path : 
+2025-09-24 10:15:14,554 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2025-09-24 10:15:14,554 [INFO] OpenFileManager:313 - Change cursor
+2025-09-24 10:15:14,974 [INFO] Context:592 - Trying to add GPIOservice into a context  which must be forbidden
+2025-09-24 10:15:15,123 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2025-09-24 10:15:15,123 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2025-09-24 10:15:15,123 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2025-09-24 10:15:15,123 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2025-09-24 10:15:15,124 [WARN] ModelIntegratedComponent:181 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2025-09-24 10:15:15,124 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,124 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,124 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,124 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,124 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,124 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,124 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,124 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,124 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,125 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,125 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,125 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,125 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,125 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,125 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,125 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,125 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,125 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,125 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,125 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,125 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,126 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,126 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,126 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,126 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,126 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,126 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,126 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,126 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,126 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,126 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:15:15,201 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 940715488 Bytes (1073741824)
+2025-09-24 10:15:15,201 [WARN] ThirdParty:779 - waiting for thirdparty lock release [change project]
+2025-09-24 10:15:15,201 [INFO] ThirdParty:781 - entering critical section [change project]
+2025-09-24 10:15:15,201 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2025-09-24 10:15:15,201 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2025-09-24 10:15:15,201 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2025-09-24 10:15:15,201 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2025-09-24 10:15:15,201 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2025-09-24 10:15:15,201 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2025-09-24 10:15:15,201 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2025-09-24 10:15:15,201 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2025-09-24 10:15:15,201 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2025-09-24 10:15:15,201 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2025-09-24 10:15:15,201 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2025-09-24 10:15:15,201 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2025-09-24 10:15:15,201 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2025-09-24 10:15:15,201 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2025-09-24 10:15:15,201 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2025-09-24 10:15:15,201 [INFO] ThirdParty:787 - exiting critical section [change project]
+2025-09-24 10:15:15,288 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2025-09-24 10:15:15,288 [INFO] PinOutPanel:1463 - setPackage(STM32F103C6Ux,UFQFPN48)
+2025-09-24 10:15:15,491 [INFO] UtilMem:74 - Before build in PCC Used Memory: 915379840 Bytes (1073741824)
+2025-09-24 10:15:15,691 [INFO] UtilMem:74 - After build in PCC Used Memory: 932664672 Bytes (1073741824)
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,694 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:15:15,710 [INFO] OpenFileManager:333 - Restore cursor
+2025-09-24 10:17:53,241 [INFO] Pin:2088 - value.trim() ?
+2025-09-24 10:17:53,241 [INFO] Pin:2089 - Pin value PA12
+2025-09-24 10:18:22,913 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 891211400 Bytes (1073741824)
+2025-09-24 10:18:23,981 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 913550104 Bytes (1073741824)
+2025-09-24 10:18:24,541 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 919198088 Bytes (1073741824)
+2025-09-24 10:18:24,863 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2025-09-24 10:18:24,863 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2025-09-24 10:18:24,863 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2025-09-24 10:18:24,863 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2025-09-24 10:18:24,864 [INFO] CodeGenerator:663 - code generatio: config db path: D:\251\vxl\cube\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2025-09-24 10:18:25,210 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\license.tmp_save
+2025-09-24 10:18:25,301 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\license.tmp
+2025-09-24 10:18:25,382 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\gpio.tmp_save
+2025-09-24 10:18:25,460 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\gpio.tmp
+2025-09-24 10:18:25,520 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_it.c_save
+2025-09-24 10:18:25,600 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_it.c
+2025-09-24 10:18:25,600 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_it.h_save
+2025-09-24 10:18:25,678 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_it.h
+2025-09-24 10:18:25,709 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_hal_msp.c_save
+2025-09-24 10:18:25,867 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\stm32f1xx_hal_msp.c
+2025-09-24 10:18:25,867 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\system.tmp_save
+2025-09-24 10:18:25,930 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\MXTmpFiles\system.tmp
+2025-09-24 10:18:25,960 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-09-24 10:18:26,075 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\stm32f1xx_hal_conf.h
+2025-09-24 10:18:26,116 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Inc\main.h_save
+2025-09-24 10:18:26,234 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Inc\main.h
+2025-09-24 10:18:26,266 [INFO] CodeEngine:239 - oldGeneratedFile, D:\251\vxl\gitlab1\code\lab1\Core\Src\main.c_save
+2025-09-24 10:18:26,461 [INFO] CodeEngine:257 - Generated code: D:\251\vxl\gitlab1\code\lab1\Core\Src\main.c
+2025-09-24 10:18:28,319 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 804mS.
+2025-09-24 10:18:28,335 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2025-09-24 10:18:28,813 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2025-09-24 10:18:28,819 [INFO] ApiDbMcu:468 - Load IP Config File for FATFS
+2025-09-24 10:18:28,835 [INFO] ApiDbMcu:468 - Load IP Config File for FREERTOS
+2025-09-24 10:18:28,866 [INFO] ApiDbMcu:468 - Load IP Config File for USB_DEVICE
+2025-09-24 10:18:30,758 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2423mS.
+2025-09-24 10:18:30,758 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-24 10:18:30,758 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-24 10:23:06,040 [INFO] MainUpdater:2671 - connection check result : 10
+2025-09-24 10:23:06,040 [INFO] MainUpdater:2671 - connection check result : 10
+2025-09-24 10:23:06,086 [INFO] MicroXplorer:448 - Change Database Path : 
+2025-09-24 10:23:06,086 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2025-09-24 10:23:06,086 [WARN] ThirdParty:813 - waiting for thirdparty lock release [close project]
+2025-09-24 10:23:06,086 [INFO] ThirdParty:815 - entering critical section [close project]
+2025-09-24 10:23:06,086 [INFO] ThirdParty:825 - exiting critical section [close project]
+2025-09-24 10:23:06,086 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2025-09-24 10:23:06,086 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 915684592 Bytes (1073741824)
+2025-09-24 10:23:06,086 [INFO] MicroXplorer:448 - Change Database Path : 
+2025-09-24 10:23:06,086 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2025-09-24 10:23:06,086 [INFO] OpenFileManager:313 - Change cursor
+2025-09-24 10:23:06,102 [INFO] RulesReader:57 - Compatibility file has been processed (242 Rules)
+2025-09-24 10:23:06,554 [INFO] Context:592 - Trying to add GPIOservice into a context  which must be forbidden
+2025-09-24 10:23:06,695 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2025-09-24 10:23:06,695 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2025-09-24 10:23:06,695 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2025-09-24 10:23:06,695 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:181 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,695 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,710 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,710 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,710 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 10:23:06,773 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 901725304 Bytes (1073741824)
+2025-09-24 10:23:06,773 [WARN] ThirdParty:779 - waiting for thirdparty lock release [change project]
+2025-09-24 10:23:06,773 [INFO] ThirdParty:781 - entering critical section [change project]
+2025-09-24 10:23:06,773 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2025-09-24 10:23:06,773 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2025-09-24 10:23:06,773 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2025-09-24 10:23:06,773 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2025-09-24 10:23:06,773 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2025-09-24 10:23:06,773 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2025-09-24 10:23:06,773 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2025-09-24 10:23:06,773 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2025-09-24 10:23:06,773 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2025-09-24 10:23:06,773 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2025-09-24 10:23:06,773 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2025-09-24 10:23:06,773 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2025-09-24 10:23:06,773 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2025-09-24 10:23:06,773 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2025-09-24 10:23:06,773 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2025-09-24 10:23:06,773 [INFO] ThirdParty:787 - exiting critical section [change project]
+2025-09-24 10:23:06,882 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2025-09-24 10:23:06,882 [INFO] PinOutPanel:1463 - setPackage(STM32F103C6Ux,UFQFPN48)
+2025-09-24 10:23:07,106 [INFO] UtilMem:74 - Before build in PCC Used Memory: 923641840 Bytes (1073741824)
+2025-09-24 10:23:07,304 [INFO] UtilMem:74 - After build in PCC Used Memory: 941185632 Bytes (1073741824)
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,319 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 10:23:07,335 [INFO] OpenFileManager:333 - Restore cursor
+2025-09-24 11:17:10,331 [INFO] MainUpdater:2671 - connection check result : 10
+2025-09-24 11:17:10,331 [INFO] MainUpdater:2671 - connection check result : 10
+2025-09-24 11:17:10,365 [INFO] MicroXplorer:448 - Change Database Path : 
+2025-09-24 11:17:10,366 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2025-09-24 11:17:10,366 [WARN] ThirdParty:813 - waiting for thirdparty lock release [close project]
+2025-09-24 11:17:10,366 [INFO] ThirdParty:815 - entering critical section [close project]
+2025-09-24 11:17:10,366 [INFO] ThirdParty:825 - exiting critical section [close project]
+2025-09-24 11:17:10,366 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2025-09-24 11:17:10,367 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 921166536 Bytes (1073741824)
+2025-09-24 11:17:10,368 [INFO] MicroXplorer:448 - Change Database Path : 
+2025-09-24 11:17:10,368 [INFO] MicroXplorer:478 - Change Database Version : DB.6.0.30
+2025-09-24 11:17:10,368 [INFO] OpenFileManager:313 - Change cursor
+2025-09-24 11:17:10,854 [INFO] Context:592 - Trying to add GPIOservice into a context  which must be forbidden
+2025-09-24 11:17:11,030 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2025-09-24 11:17:11,030 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2025-09-24 11:17:11,030 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2025-09-24 11:17:11,031 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2025-09-24 11:17:11,031 [WARN] ModelIntegratedComponent:181 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2025-09-24 11:17:11,031 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,031 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,031 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,032 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,032 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,032 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,032 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,032 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,032 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,032 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,033 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,033 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,033 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,033 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,033 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,033 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,033 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,034 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,034 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,034 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,034 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,034 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,034 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,034 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,035 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,035 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,035 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,035 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,035 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,035 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,035 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2025-09-24 11:17:11,105 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 919360064 Bytes (1073741824)
+2025-09-24 11:17:11,106 [WARN] ThirdParty:779 - waiting for thirdparty lock release [change project]
+2025-09-24 11:17:11,106 [INFO] ThirdParty:781 - entering critical section [change project]
+2025-09-24 11:17:11,106 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2025-09-24 11:17:11,106 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2025-09-24 11:17:11,106 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2025-09-24 11:17:11,106 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2025-09-24 11:17:11,106 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2025-09-24 11:17:11,106 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2025-09-24 11:17:11,106 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2025-09-24 11:17:11,106 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2025-09-24 11:17:11,106 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2025-09-24 11:17:11,106 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2025-09-24 11:17:11,107 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2025-09-24 11:17:11,107 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2025-09-24 11:17:11,107 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2025-09-24 11:17:11,107 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2025-09-24 11:17:11,107 [INFO] ThirdParty:967 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2025-09-24 11:17:11,107 [INFO] ThirdParty:787 - exiting critical section [change project]
+2025-09-24 11:17:11,211 [INFO] PinOutPanel:1463 - setPackage(No Configuration,No Configuration)
+2025-09-24 11:17:11,212 [INFO] PinOutPanel:1463 - setPackage(STM32F103C6Ux,UFQFPN48)
+2025-09-24 11:17:11,445 [INFO] UtilMem:74 - Before build in PCC Used Memory: 938710976 Bytes (1073741824)
+2025-09-24 11:17:11,667 [INFO] UtilMem:74 - After build in PCC Used Memory: 907525568 Bytes (1073741824)
+2025-09-24 11:17:11,681 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,681 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,681 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,681 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,681 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,681 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,682 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,682 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,682 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,682 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,682 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,683 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,683 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,683 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,683 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,684 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,684 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,684 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,684 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,685 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,685 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,686 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,686 [INFO] IPUIPlugin:74 - create IPUIPlugin
+2025-09-24 11:17:11,698 [INFO] OpenFileManager:333 - Restore cursor
